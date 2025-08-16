@@ -6,9 +6,6 @@ import { OAppReceiver, Origin } from "@layerzerolabs/oapp-evm/contracts/oapp/OAp
 import { OAppCore } from "@layerzerolabs/oapp-evm/contracts/oapp/OAppCore.sol";
 import { Ownable } from "@openzeppelin/contracts/access/Ownable.sol";
 
-/**
- * @notice THIS IS AN EXAMPLE CONTRACT. DO NOT USE THIS CODE IN PRODUCTION.
- */
 
 contract DestinationOApp is OAppReceiver {
 
