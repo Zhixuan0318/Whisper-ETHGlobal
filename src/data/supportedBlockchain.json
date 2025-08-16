@@ -1,0 +1,92 @@
+{
+    "AMOY_V2_TESTNET": {
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/polygon.svg",
+        "Name": "Polygon Amoy",
+        "Rpc": "https://polygon-amoy.drpc.org",
+        "Explorer": "https://amoy.polygonscan.com/",
+        "Symbol": "POL",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 80002
+    },
+    "WORLDCOIN_V2_TESTNET": {
+        "Thumbnail":"https://icons-ckg.pages.dev/lz-scan/networks/worldcoin.svg",
+        "Name": "World Chain Sepolia",
+        "Rpc": "https://worldchain-sepolia.drpc.org",
+        "Explorer": "https://sepolia.worldscan.org/",
+        "Symbol": "ETH",
+        "Endpoint": "0x145C041566B21Bec558B2A37F1a5Ff261aB55998",
+        "ChainId": 4801
+    },
+    "FLOW_V2_TESTNET": {
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/flow.svg",
+        "Name": "Flow EVM Testnet",
+        "Rpc": "https://testnet.evm.nodes.onflow.org",
+        "Explorer": "https://evm.flowscan.io/",
+        "Symbol": "FLOW",
+        "Endpoint": "0x6C7Ab2202C98C4227C5c46f1417D81144DA716Ff",
+        "ChainId": 545
+    },
+    "BASESEP_V2_TESTNET":{
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/base.svg",
+        "Name": "Base Sepolia",
+        "Rpc": "https://sepolia.base.org",
+        "Explorer": "https://sepolia.basescan.org/",
+        "Symbol": "ETH",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 84532
+    }, 
+    "SEPOLIA_V2_TESTNET":{
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/ethereum.svg",
+        "Name": "Ethereum Sepolia",
+        "Rpc": "https://1rpc.io/sepolia",
+        "Explorer": "https://sepolia.etherscan.io/",
+        "Symbol": "ETH",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 11155111
+    }, 
+    "UNICHAIN_V2_TESTNET": {
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/unichain.svg",
+        "Name": "Unichain Sepolia",
+        "Rpc": "https://unichain-sepolia.drpc.org",
+        "Explorer": "https://unichain-sepolia.blockscout.com/",
+        "Symbol": "ETH",
+        "Endpoint": "0xb8815f3f882614048CbE201a67eF9c6F10fe5035",
+        "ChainId": 1301
+    },
+    "ARBSEP_V2_TESTNET":{
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/arbitrum.svg",
+        "Name": "Arbitrum Sepolia",
+        "Rpc": "https://arbitrum-sepolia.therpc.io",
+        "Explorer": "https://arbitrum-sepolia.blockscout.com/",
+        "Symbol": "ETH",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 421614
+    }, 
+    "AVALANCHE_V2_TESTNET":{
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/avalanche.svg",
+        "Name": "Avalanche Fuji",
+        "Rpc": "https://avalanche-fuji.drpc.org",
+        "Explorer": "https://testnet.snowtrace.io/",
+        "Symbol": "AVAX",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 43113
+    } ,
+    "ZIRCUIT_V2_TESTNET":{
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/zircuit.svg",
+        "Name": "Zircuit Testnet",
+        "Rpc": "https://zircuit1-testnet.p2pify.com/",
+        "Explorer": "https://explorer.testnet.zircuit.com",
+        "Symbol": "ETH",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 48898
+    }, 
+    "CELO_V2_TESTNET":{
+        "Thumbnail": "https://icons-ckg.pages.dev/lz-scan/networks/celo.svg",
+        "Name": "Celo Alfajores",
+        "Rpc": "https://celo-alfajores.drpc.org",
+        "Explorer": "https://alfajores.celoscan.io/",
+        "Symbol": "CELO",
+        "Endpoint": "0x6EDCE65403992e310A62460808c4b910D972f10f",
+        "ChainId": 44787
+    }
+}
