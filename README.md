@@ -6,6 +6,9 @@
 
 <br>
 
+Deployed on Flow EVM Testnet 💚
+Sample Used Contract Address: [Click Here](https://evm-testnet.flowscan.io/address/0x84e833d8781df5DD870E03F11f2Dec8Faf9b4ef7)
+
 ## Description
 
 🔥 **Trend:**
