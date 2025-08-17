@@ -148,7 +148,7 @@ export default function OAppDetail({ channel }) {
           ) : (
             <AddressRow
               address={sourceOApp}
-              explorerUrl={`https://hashscan.io/testnet/contract/${sourceOApp}`}
+              explorerUrl={`https://evm-testnet.flowscan.io/address/${sourceOApp}`}
             />
           )}
         </div>
