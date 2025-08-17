@@ -52,7 +52,7 @@ export default function Page() {
         <div className="mt-15 flex items-center justify-center gap-5">
           <ConnectWalletButtonHome />
           <a
-            href="https://github.com/Zhixuan0318/Whisper"
+            href="https://github.com/Zhixuan0318/Whisper-ETHGlobal"
             target="_blank"
             rel="noopener noreferrer"
           >
